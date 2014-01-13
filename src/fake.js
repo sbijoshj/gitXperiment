@@ -1,6 +1,6 @@
 // test source code for git practice
 
-firstChange=0
+firstChange=1
 
 function person(firstname,lastname,age,eyecolor)
 {
