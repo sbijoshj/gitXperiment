@@ -1,7 +1,5 @@
 // test source code for git practice
 
-firstChange=1
-
 function person(firstname,lastname,age,eyecolor)
 {
 this.firstname=firstname;
