@@ -1,5 +1,14 @@
 // test source code for git practice
 
+var mycars = new Array();
+
+mycars[0] = "Honda";
+
+mycars[1] = "Volvo";
+
+mycars[2] = "BMW";  // misc comment
+
+
 function person(firstname,lastname,age,eyecolor)
 {
 this.firstname=firstname;
