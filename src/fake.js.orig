@@ -1,14 +1,19 @@
 // test source code for git practice
 
 var mycars = new Array();
-
+<<<<<<< HEAD
 mycars[0] = "Saab";
+mycars[1] = "Volvo";
+mycars[2] = "BMW";
+=======
 
 mycars[0] = "Honda";
 
 mycars[1] = "Volvo";
 
 mycars[2] = "BMW";  // misc comment
+
+>>>>>>> 4523ac363d9a79421b5d5605bf438c3b7ae55f57
 
 function person(firstname,lastname,age,eyecolor)
 {
